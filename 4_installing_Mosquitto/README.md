@@ -12,13 +12,6 @@ In order to check Mosquitto is running
 sudo systemctl status mosquitto
 ```
 
-Simple test by publishing "hello world" via "test" topic, terminal 1 should see the message
-```
-mosquitto_sub -h localhost -t test //terminal 1
-mosquitto_pub -h localhost -t test -m "hello world" //terminal 2
-```
+![2022-02-12 20_17_24-Get Started - Visual Studio Code](https://user-images.githubusercontent.com/55657279/153713005-a7786cdb-7b58-479b-b540-b4c88447d547.png)
 
-![2022-02-12 20_08_11-Get Started - Visual Studio Code](https://user-images.githubusercontent.com/55657279/153712701-7aae30a6-35a5-4630-9a31-5228658cdbdf.png)
-
-
-[Done]
+[Next >>](1.md)
