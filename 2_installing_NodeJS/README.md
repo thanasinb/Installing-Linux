@@ -1,4 +1,12 @@
 # Linking VS Code to Ubuntu
+
+Procedures:
+1. Generate SSH key
+2. Put the generated key into Linux host
+3. Set the Linux host in Windows
+4. Install the SSH extension in VS Code
+5. Connect to the Linux host
+
 ## Generate SSH key
 
 Open cmd window and run the following command to generate the SSH key
