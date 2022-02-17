@@ -1,17 +1,16 @@
-# Installing Mosquitto
+# Installing Mosquitto driver for NodeJS
 
 Run the following commands
 
 ```
- sudo apt-get install mosquitto -y
- sudo apt-get install mosquitto-clients -y
+npm install mqtt --save
 ```
 
-In order to check Mosquitto is running
-```
-sudo systemctl status mosquitto
-```
+![2022-02-17 20_58_04-Window](https://user-images.githubusercontent.com/55657279/154496771-ac9d05e2-33cd-4e72-98ee-849096ccc517.png)
 
-![2022-02-12 20_17_24-Get Started - Visual Studio Code](https://user-images.githubusercontent.com/55657279/153713005-a7786cdb-7b58-479b-b540-b4c88447d547.png)
+```
+sudo apt-get update -y
+wget -qO - https://www.mongodb.org/static/pgp/server-5.0.asc | sudo apt-key add -
+```
 
 [Next >>](1.md)
