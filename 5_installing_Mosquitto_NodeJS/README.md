@@ -22,4 +22,18 @@ npm install mqtt --save
 
 ![2022-02-19 12_35_58-mqtt js - demo  SSH_ 192 168 1 115  - Visual Studio Code](https://user-images.githubusercontent.com/55657279/154787912-8c1cc5ea-ab49-4992-bbc0-b48b1fc36510.png)
 
+Try a simple `Hello script`
+```
+console.log('Hello World');
+```
+
+Run the above script by running the following command
+```
+node mqtt.js
+```
+
+The result should look like this
+
+![2022-02-19 12_44_05-mqtt js - demo  SSH_ 192 168 1 115  - Visual Studio Code](https://user-images.githubusercontent.com/55657279/154788242-2858d123-7831-4e92-bd4e-21004fcf7f67.png)
+
 [Next >>](1.md)
