@@ -16,4 +16,4 @@ mongod --version
 
 ![2022-02-19 23_01_38-Get Started - Visual Studio Code](https://user-images.githubusercontent.com/55657279/154808668-3200fdd4-de7a-4183-95ef-2ad59ae69ee4.png)
 
-[Next >>](1.md)
+[Done!]
