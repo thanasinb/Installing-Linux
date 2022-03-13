@@ -18,3 +18,5 @@ Open `package.json` and add `"type": "module",` below `"main"`
 
 Program the backend using the code in
 https://github.com/thanasinb/Installing-Linux/tree/main/Lab_8_1/mqtt_mern/backend
+
+Run `nodemon server`
